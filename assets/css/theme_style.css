@@ -1,0 +1,19 @@
+.bg-primary {
+  background-color: #00899c!important;
+}
+
+.bg-secondary {
+  background-color: #062b51!important;
+}
+
+hr.star-light:after {
+  color: #fff;
+  background-color: #00899c;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+  transition: all .5s ease;
+  opacity: 0;
+  background-color: rgba(44,64,169,0.9);
+}
+
