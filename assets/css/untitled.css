@@ -131,10 +131,11 @@
 }
 
 .link-green {
-  color: #0d6756!important;
+  color: #211eae!important;
+  text-decoration: underline;
 }
 
 .link-green:hover {
-  color: #664D33 !important;
+  color: #332eff !important;
 }
 
