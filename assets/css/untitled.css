@@ -1,16 +1,16 @@
 @media (min-width: 300px) {
   .lead.text-center {
-    font-size: 19px;
-    margin-left: 10px;
-    margin-right: 10px;
+    /*font-size: 18px;*/
+    /*margin-left: 0px;*/
+    /*margin-right: 0px;*/
   }
 }
 
 @media (min-width: 768px) {
   .lead.text-center {
-    font-size: 21px;
-    margin-left: 120px;
-    margin-right: 120px;
+    /*font-size: 21px;*/
+    /*margin-left: 120px;*/
+    /*margin-right: 120px;*/
   }
 }
 
@@ -18,7 +18,7 @@
   .text-uppercase.text-center.text-white {
     margin-left: 0px;
     margin-right: 0px;
-    font-size: 19px;
+    font-size: 30px;
   }
 }
 
@@ -44,7 +44,85 @@
   }
 }
 
-#mobile {
+@media (min-width: 300px) {
+  #mobile {
+    font-size: 19px;
+  }
+}
+
+@media (min-width: 576px) {
+  #mobile {
+    font-size: 30px;
+  }
+}
+
+#discount {
+  font-size: 22px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+@media (min-width: 768px) {
+  #discount {
+    font-size: 33px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
+
+#mobile1 {
   font-size: 30px;
+}
+
+@media (min-width: 300px) {
+  #mobile-2 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 576px) {
+  #mobile-2 {
+    font-size: 30px;
+  }
+}
+
+#projects_title {
+  font-size: 31px;
+}
+
+@media (min-width: 576px) {
+  #name {
+    font-size: 60px;
+  }
+}
+
+@media (min-width: 300px) {
+  #name {
+    font-size: 45px;
+  }
+}
+
+@media (min-width: 768px) {
+  #about {
+    font-size: 23px;
+  }
+}
+
+@media (min-width: 300px) {
+  #about {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 576px) {
+  #about {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 992px) {
+  #about {
+    font-size: 27px;
+  }
 }
 
