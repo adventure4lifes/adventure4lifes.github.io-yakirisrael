@@ -86,15 +86,15 @@
   }
 }
 
-@media (min-width: 150px) {
+@media (min-width: 300px) {
   #projects_title {
-    font-size: 16px;
+    font-size: 30.1px;
   }
 }
 
-@media (min-width: 300px) {
+@media (min-width: 576px) {
   #projects_title {
-    font-size: 31px;
+    font-size: 35.1px;
   }
 }
 
