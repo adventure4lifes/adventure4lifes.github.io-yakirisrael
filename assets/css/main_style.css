@@ -56,8 +56,16 @@
   }
 }
 
-#mobile1 {
-  font-size: 30px;
+@media (min-width: 300px) {
+  #mobile1 {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 576px) {
+  #mobile1 {
+    font-size: 30px;
+  }
 }
 
 @media (min-width: 0px) {
