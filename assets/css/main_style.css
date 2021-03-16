@@ -155,13 +155,13 @@
 
 @media (min-width: 576px) {
   #title {
-    font-size: 20.8px;
+    font-size: 24.8px;
   }
 }
 
-@media (min-width: 300px) {
+@media (min-width: 100px) {
   #title {
-    font-size: 20.1px;
+    /*font-size: 20.1px;*/
   }
 }
 
