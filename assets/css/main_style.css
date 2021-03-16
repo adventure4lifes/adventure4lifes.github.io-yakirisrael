@@ -60,6 +60,12 @@
   font-size: 30px;
 }
 
+@media (min-width: 0px) {
+  #mobile-2 {
+    /*font-size: 15px;*/
+  }
+}
+
 @media (min-width: 300px) {
   #mobile-2 {
     font-size: 20px;
@@ -72,8 +78,16 @@
   }
 }
 
-#projects_title {
-  font-size: 31px;
+@media (min-width: 150px) {
+  #projects_title {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 300px) {
+  #projects_title {
+    font-size: 31px;
+  }
 }
 
 @media (min-width: 576px) {
